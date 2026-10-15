@@ -1,0 +1,6 @@
+numpy>=1.26
+torch>=2.2
+matplotlib>=3.8
+pandas>=2.0
+opencv-python>=4.8
+mediapipe==0.10.21
