@@ -2,7 +2,7 @@
 
 # Reconocimiento de Lenguaje de Señas Colombiano mediante Aprendizaje Profundo
 
-<img src="Banner e imágenes/Banner LSC.jpg" alt="Banner del proyecto" width="100%"/>
+<img src="Imagenes/Banner LSC.jpg" alt="Banner del proyecto" width="100%"/>
 
 **Autores:** Laura Vanesa Rosas, Harold Esteban Duran, Yeison Steven Ovalle
 
