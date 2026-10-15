@@ -1,0 +1,35 @@
+# --- Entornos y variables ---
+.env
+.venv/
+.venv312/
+
+# --- Dependencias ---
+node_modules/
+vendor/
+
+# --- Compilación y distribución ---
+/dist/
+/build/
+*.pyc
+__pycache__/
+
+
+
+#Archivos especificos
+
+/Codigo/landmark_recognition/checkpoints/
+
+LANDMARKS.zip
+Videos Courtesy.zip
+
+/Codigo/landmark_recognition/data/
+
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
