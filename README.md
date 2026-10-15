@@ -105,7 +105,7 @@ python -c "import cv2, mediapipe, tensorflow as tf; print('OK', tf.__version__)"
 2. Flórez-Sierra et al. *LSC50 dataset*. Scientific Data, 2024. [Nature](https://www.nature.com/articles/s41597-024-04172-5) · Figshare DOI `10.6084/m9.figshare.27383016`.
 3. *MediaPipe y CNN para el reconocimiento de gestos de LSA en tiempo real*, 2023. [arXiv:2305.05296](https://arxiv.org/pdf/2305.05296).
 4. Bohacek & Hruz. *Sign Pose-based Transformer for Word-level Sign Language Recognition*, WACVW 2022. [PDF](https://openaccess.thecvf.com/content/WACV2022W/HADCV/papers/Bohacek_Sign_Pose-Based_Transformer_for_Word-Level_Sign_Language_Recognition_WACVW_2022_paper.pdf).
-5. *Sistema de interpretación dinámica para signos alfanuméricos de la LSC mediante la combinación de redes de aprendizaje profundo*. Multimedia Tools and Applications. [Springer](https://link.springer.com/article/10.1007/s11042-023-17361-y).
+
 
 ## 7. Licencia y citación
 
