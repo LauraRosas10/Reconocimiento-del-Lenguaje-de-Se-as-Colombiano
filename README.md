@@ -42,28 +42,10 @@ Implementar un sistema de reconocimiento del Lenguaje de Señas Colombiano (LSC)
 > Ajusta esta sección si los nombres de carpetas o scripts de tu repositorio difieren.
 
 ```
-Reconocimiento-del-Lenguaje-de-Se-as-Colombiano/
-├── Banner e imágenes/                 # Banner e imágenes del README
-├── Codigo/
-│   ├── preprocessing/      # Extracción de landmarks y normalización
-│   ├── models/             # Definición de CNN / BiLSTM
-│   ├── train.py            # Entrenamiento
-│   ├── evaluate.py         # Evaluación
-│   └── realtime.py         # Inferencia en tiempo real con webcam
-├── SPOTER/                 # Base del transformer
-├── requirements.txt
-└── README.md
+
 ```
 
 ## 4. Requisitos
-
-| Componente | Recomendado |
-|------------|-------------|
-| Sistema operativo | Windows 10/11, Ubuntu 20.04+ o macOS |
-| Python | 3.9 – 3.11 |
-| Cámara web | Necesaria para la ejecución en tiempo real |
-| GPU (opcional) | NVIDIA con CUDA para acelerar el entrenamiento |
-| Espacio en disco | ~10 GB para LSC70 y más si se descarga LSC50 completo |
 
 Librerías principales: `tensorflow` (o `torch`), `mediapipe`, `opencv-python`, `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `jupyter`.
 
@@ -74,28 +56,12 @@ Librerías principales: `tensorflow` (o `torch`), `mediapipe`, `opencv-python`, 
 git clone https://github.com/LauraRosas10/Reconocimiento-del-Lenguaje-de-Se-as-Colombiano.git
 cd Reconocimiento-del-Lenguaje-de-Se-as-Colombiano
 
-# 2. Crear y activar un entorno virtual
-python -m venv venv
-# Linux / macOS
-source venv/bin/activate
-# Windows (PowerShell)
-venv\Scripts\Activate.ps1
-
-# 3. Instalar dependencias
-pip install --upgrade pip
-pip install -r requirements.txt
 ```
 
 Si no existe `requirements.txt`, instala manualmente:
 
 ```bash
 pip install tensorflow mediapipe opencv-python numpy pandas scikit-learn matplotlib jupyter
-```
-
-Verificación rápida:
-
-```bash
-python -c "import cv2, mediapipe, tensorflow as tf; print('OK', tf.__version__)"
 ```
 
 
