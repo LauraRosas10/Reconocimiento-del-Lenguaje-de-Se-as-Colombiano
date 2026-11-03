@@ -1,0 +1,10 @@
+{
+    "model": "Phase 1 - MobileNetV3Large RGB (DataAug + L2 + FineTuning)",
+    "test_accuracy": 0.7007722007722008,
+    "macro_f1": 0.6995022728004004,
+    "weighted_f1": 0.6995022728004006,
+    "macro_precision": 0.7295178414731492,
+    "macro_recall": 0.7007722007722007,
+    "num_test_samples": 1554,
+    "num_classes": 37
+}

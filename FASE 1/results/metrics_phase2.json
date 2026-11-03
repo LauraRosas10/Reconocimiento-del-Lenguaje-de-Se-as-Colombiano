@@ -1,0 +1,10 @@
+{
+    "model": "Phase 2 - MobileNetV3 (Landmark Skeletons 224x224)",
+    "test_accuracy": 0.7387387387387387,
+    "macro_f1": 0.7473039947483208,
+    "weighted_f1": 0.747303994748321,
+    "macro_precision": 0.7745351920577779,
+    "macro_recall": 0.7387387387387389,
+    "num_test_samples": 1554,
+    "num_classes": 37
+}
