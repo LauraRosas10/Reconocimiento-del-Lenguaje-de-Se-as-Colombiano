@@ -9,7 +9,7 @@
 </div>
 
 ---
-ENLACE DIAPOSITIVAS: https://canva.link/buep2znmswtpwn6
+ENLACE DIAPOSITIVAS: [https://canva.link/buep2znmswtpwn6](https://canva.link/w17onqkofer07lu)
 ## Tabla de contenido
 
 1. [Motivación](#1-motivación)
